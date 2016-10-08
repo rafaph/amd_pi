@@ -1,1 +1,1 @@
-amd_pi
+Exemplo de utilização de AMD com o RequireJS.

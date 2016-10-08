@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "ws -d public -n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaph/amd_pi.git"
+  },
+  "author": {
+    "name": "Raphael Castro",
+    "email": "rafaphcastro@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaph/amd_pi/issues"
+  },
+  "homepage": "https://github.com/rafaph/amd_pi#readme",
+  "devDependencies": {
+    "local-web-server": "^1.2.6"
+  }
+}
